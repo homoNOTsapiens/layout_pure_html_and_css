@@ -1,0 +1,30 @@
+#main{
+    border-radius: 30px;
+    text-align: center;
+    background-color:#B0C4DE;
+    background-size: auto;
+    height: 100%;
+    width:auto;
+}
+h1{
+    font-family: 'Original Surfer', cursive;
+    font-size:3vw;
+}
+h3{
+    font-family: 'Original Surfer', cursive;
+    font-size:1.5vw;
+    font-style:oblique;
+    color:#696969;
+}
+a{
+    color:#000080;
+    font-family: 'Original Surfer', cursive;
+}
+#img-caption{
+    font-family: 'Dancing Script', cursive;
+}
+#image{
+    border-radius: 10px;
+    width:60%;
+    height:60%;
+}
